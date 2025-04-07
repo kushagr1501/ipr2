@@ -128,7 +128,7 @@ const QuizApp = () => {
             "question_no": 21,
             "question": "Which of the following is a possible alternative to filing a patent application?",
             "options": ["Keeping the invention as a trade secret", "Filing a copyright application instead", "Assigning the invention to another inventor", "Publicly disclosing the invention"],
-            "answer": "Keeping the invention as a trade secret"
+            "answer": "A"
         },
 
 
